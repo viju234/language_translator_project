@@ -19,3 +19,7 @@ This is a simple language translator web application built using pure **HTML**, 
 1. Clone the repository to your local machine:
    ```bash
    https://github.com/viju234/language_translator_project/edit/main/README.md
+2.## 🚀 Demo
+
+For a live demonstration of the language translator web application, click here:  
+👉 [Language Translator Demo](https://viju234.github.io/language_translator_project/)
